@@ -1,7 +1,0 @@
-text不要mb-1
-img不要mb-1，改mt-1
-h2加上mt-1
-
-<!-- 14.雷古娜
-codepen:https://codepen.io/tinahopo/pen/ExmKJzx
--->
