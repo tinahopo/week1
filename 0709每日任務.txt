@@ -1,0 +1,5 @@
+h1{標題}+(p>lorem4)+img[src="https://ithelp.ithome.com.tw/storage/image/logo.svg"]+h2{副標題}+ul>li*3{$}^h2{副標題}+(p>lorem4)
+
+<!-- 30. 雷古娜
+Codepen:https://codepen.io/tinahopo/pen/abWZYrj
+-->
